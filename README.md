@@ -8,7 +8,7 @@
  <br />
 </h1>
 <p align="center">
-🐉 Automate Browser-based workflows with AI 🐉
+🐉 Automate browser-based workflows using LLMS and computer vision 🐉
 </p>
 <p align="center">
   <a href="https://www.skyvern.com/"><img src="https://img.shields.io/badge/Website-blue?logo=googlechrome&logoColor=black"></a>
@@ -21,26 +21,69 @@
   <a href="https://www.linkedin.com/company/95726232"><img src="https://img.shields.io/badge/Follow%20 on%20LinkedIn-8A2BE2?logo=linkedin"></a>
 </p>
 
-[Skyvern](https://www.skyvern.com) automates browser-based workflows using LLMs and computer vision. It provides a simple API endpoint to fully automate manual workflows, replacing brittle or unreliable automation solutions. 
+[Skyvern](https://www.skyvern.com) automates browser-based workflows using LLMs and computer vision. It provides a simple API endpoint to automate workflows and replace unreliable automation solutions. 
 
 <p align="center">
   <img src="images/geico_shu_recording_cropped.gif">
 </p>
 
-Want to see more examples of Skyvern in action? Click [here](#real-world-examples-of-skyvern-in-action)!
+## Getting started
+
+To use Skyvern, download XYZ, import the library, and call `myFunction` to scrape the website.
+
+```
+add code as early as possible
+people need something actionable
+to copy and paste ASAP
+```
+
+Add more details at the bottom of the code so people can get started quickly.
 
 
-## Quickstart
-<< TODO >>
+## How it works
+
+Technical people tend to be skeptical when they read "AI", so I'd add a section here to get rid of the "magic".
+
+![add an image to aid your explanation - people perceive READMES with more visual resources as higher quality]()
+
+Do _not_ make your explanation too extensive, and take advantage of good formatting for `code` and other things so it looks **slick**.
+
+![two diagrams here are probably enough - see my notes on slack about how to make good images]()
+
+Three to four paragraphs total in this section. Make sure to export the diagrams both for dark and light mode. Excalidraw has that feature when you're exporting stuff. Then do the same kind of `prefers-color-scheme` attributes you've used in the logo.
+
 
 ## Documentation
 
-More extensive documentation can be found on our [documentation website](https://docs.skyvern.ai). Please let us know if something is unclear or missing by opening an issue or reaching out to us [via email](mailto:founders@skyvern.com) or [discord](https://discord.gg/fG2XXEuQX3).
+Add a brief overview here explaining the high-level constructs and methods. Two to three paragraphs is fine.
+
+Only send people to external links once you've teased them with enough valuable content. That's because they're unlikely to click otherwise.
+
+![if that makes sense or there's some interesting and helpful diagram, add one here]()
+
+Visit our [documentation website](https://docs.skyvern.ai) for more extensive documentation.
+
+
+## Examples
+
+Either:
+
+1. Link examples in another repo or folder here using a list
+2. Add small `h3` sections with descriptions and snippets.
+
+I like both options, but I think the second is slightly better.
+
+Don't worry too much about the length. Higher length is also perceived as higher quality and people probably wouldn't click links anyway.
+
+If you show them it took you effort to write, people will star more.
 
 
 
 ## Frequently Asked Questions (FAQs)
+
 ### What gets us excited about Skyvern?
+
+<<< do not use click to expand, see my note above about length >>>
 
 <details>
 <summary> Click to expand </summary>
@@ -62,8 +105,9 @@ This approach gives us a few advantages:
 </details>
 
 
-## Feature Roadmap
-This is our planned roadmap for the next few months. If you have any suggestions or would like to see a feature added, please don't hesitate to reach out to us [via email](mailto:founders@skyvern.com) or [discord](https://discord.gg/fG2XXEuQX3).
+## Roadmap
+
+This is our planned roadmap for the next few months.
 
 - [x] **Open Source** - Open Source Skyvern's core codebase
 - [x] **[BETA] Workflow support** - Allow support to chain multiple Skyvern calls together
@@ -85,38 +129,18 @@ Please have a look at our [contribution guide](CONTRIBUTING.md) and
 
 ## Usage and Feedback
 
+<< you linked your email and discord in many places. just leave this one to avoid annoying people >>
+
 We are delighted to work with the community to help shape the roadmap of our product. Please don't hesitate to reach out via [via email](mailto:founders@skyvern.com) or [discord](https://discord.gg/fG2XXEuQX3) if you have any product suggestions or feedback.
 
-### Telemetry
+### Privacy
 
 By Default, Skyvern collects basic usage statistics to help us understand how Skyvern is being used. If you would like to opt-out of telemetry, please set the `SKYVERN_TELEMETRY` environment variable to `false`.
 
 ## License
 
+<< I'd explicitly mention which parts are OSS >>
+
 The majority of Skyvern is open source. The current license can be found in the  [LICENSE](LICENSE) file. If there are any questions or concerns around licensing, please [contact us](mailto:founders@skyvern.com) and we would be happy to help.
 
-
-## Real-world examples of Skyvern in action
-We love to see how Skyvern is being used in the wild! Here are some examples of how Skyvern is being used to automate workflows in the real world. Please open PRs to add your own examples!
-
-
-### Automate materials procurement for a manufacturing company
-<p align="center">
-  <img src="images/finditparts_recording_crop.gif">
-</p>
-
-### Navigating to government websites to register accounts or fill out forms 
-<p align="center">
-  <img src="images/edd_services.gif">
-</p>
-
-### Retrieving insurance quotes from insurance providers in any language
-<p align="center">
-  <img src="images/bci_seguros_recording.gif">
-</p>
-<p align="center">
-  <img src="images/geico_shu_recording_cropped.gif">
-</p>
-
-
-
+<see my notes about moving the examples that were here to a section above>
